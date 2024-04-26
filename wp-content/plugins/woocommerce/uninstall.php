@@ -7,7 +7,6 @@
  * @package WooCommerce\Uninstaller
  * @version 2.3.0
  */
-
 use Automattic\WooCommerce\Admin\Notes\Notes;
 use Automattic\WooCommerce\Admin\ReportsSync;
 use Automattic\WooCommerce\Internal\DataStores\Orders\OrdersTableDataStore;
